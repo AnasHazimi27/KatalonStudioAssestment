@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_System UsersUsernameUser Role-- Select _9e5d59</name>
+   <tag></tag>
+   <elementGuidId>1f9e3f8c-e042-47a7-9dee-0ead952d600b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.orangehrm-background-container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2175d83b-ba05-41d9-8282-f21b4fdcf6af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>orangehrm-background-container</value>
+      <webElementGuid>fd58e6f1-40b4-405a-8f73-748ac2305e58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>System UsersUsernameUser Role-- Select --Employee NameStatus-- Select -- Reset  Search  Add  (32) Records FoundUsernameAscendingDecendingUser RoleAscendingDecendingEmployee NameAscendingDecendingStatusAscendingDecendingActionsAdminAdminDanny CollingsEnabledCharlie.CarterESSCharlie CarterDisabledChenzira.ChukiESSChenzira ChukiEnabledDavid.MorrisESSDavid MorrisEnableddominickhanESSDominic ChaseEnabledGarry.WhiteESSGarry WhiteEnabledGoutam.GaneshESSGoutam GaneshEnabledJacqueline.WhiteESSJacqueline WhiteEnabledJadine.JackieESSJadine JackieEnabledJasmine.MorganESSJasmine MorganEnabledJoe.RootESSJoe RootEnabledJohn.SmithAdminJohn SmithEnabledjohn__smithESSJohn SmithEnabledJordan.MathewsESSJordan MathewsEnabledKiyara.HuESSKiyara HuEnabledLinda.AndersonAdminLinda AndersonEnabledLisa.AndrewsESSLisa AndrewsEnabledLuke.WrightESSLuke WrightEnabledMaggie.ManningESSMaggie ManningEnabledMelan.PeirisESSMelan PeirisEnablednamihaaESSna mihaEnabledNathan.ElliotESSNathan ElliotEnabledNina.PatelESSNina PatelEnabledOdis.AdalwinAdminOdis AdalwinEnabledPeter.AndersonAdminPeter AndersonEnabledRebecca.HarmonyESSRebecca HarmonyEnabledRussel.HamiltonESSRussel HamiltonEnabledSania.ShaheenESSSania ShaheenEnabledSara.TencradyESSSara TencradyEnabledteeeettESSB Z Zameer AhmedEnabledtest1ESStest testEnabledTest2AdminOrange TestEnabled</value>
+      <webElementGuid>fc850035-fb50-44af-a087-afcf0ed4c606</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]</value>
+      <webElementGuid>7fd0489b-6fd1-49a0-8476-5a5583871ea5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div</value>
+      <webElementGuid>cef66928-e492-4d9f-a63e-0a0f3d6c950b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More'])[1]/following::div[5]</value>
+      <webElementGuid>773b5188-1735-4c1f-a4ec-8f04be864bea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Qualifications'])[1]/following::div[5]</value>
+      <webElementGuid>a2b7bf1d-437c-4334-bab1-4b8277639c09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div</value>
+      <webElementGuid>127b1b87-1210-4863-869b-49d879ca3df5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'System UsersUsernameUser Role-- Select --Employee NameStatus-- Select -- Reset  Search  Add  (32) Records FoundUsernameAscendingDecendingUser RoleAscendingDecendingEmployee NameAscendingDecendingStatusAscendingDecendingActionsAdminAdminDanny CollingsEnabledCharlie.CarterESSCharlie CarterDisabledChenzira.ChukiESSChenzira ChukiEnabledDavid.MorrisESSDavid MorrisEnableddominickhanESSDominic ChaseEnabledGarry.WhiteESSGarry WhiteEnabledGoutam.GaneshESSGoutam GaneshEnabledJacqueline.WhiteESSJacqueline WhiteEnabledJadine.JackieESSJadine JackieEnabledJasmine.MorganESSJasmine MorganEnabledJoe.RootESSJoe RootEnabledJohn.SmithAdminJohn SmithEnabledjohn__smithESSJohn SmithEnabledJordan.MathewsESSJordan MathewsEnabledKiyara.HuESSKiyara HuEnabledLinda.AndersonAdminLinda AndersonEnabledLisa.AndrewsESSLisa AndrewsEnabledLuke.WrightESSLuke WrightEnabledMaggie.ManningESSMaggie ManningEnabledMelan.PeirisESSMelan PeirisEnablednamihaaESSna mihaEnabledNathan.ElliotESSNathan ElliotEnabledNina.PatelESSNina PatelEnabledOdis.AdalwinAdminOdis AdalwinEnabledPeter.AndersonAdminPeter AndersonEnabledRebecca.HarmonyESSRebecca HarmonyEnabledRussel.HamiltonESSRussel HamiltonEnabledSania.ShaheenESSSania ShaheenEnabledSara.TencradyESSSara TencradyEnabledteeeettESSB Z Zameer AhmedEnabledtest1ESStest testEnabledTest2AdminOrange TestEnabled' or . = 'System UsersUsernameUser Role-- Select --Employee NameStatus-- Select -- Reset  Search  Add  (32) Records FoundUsernameAscendingDecendingUser RoleAscendingDecendingEmployee NameAscendingDecendingStatusAscendingDecendingActionsAdminAdminDanny CollingsEnabledCharlie.CarterESSCharlie CarterDisabledChenzira.ChukiESSChenzira ChukiEnabledDavid.MorrisESSDavid MorrisEnableddominickhanESSDominic ChaseEnabledGarry.WhiteESSGarry WhiteEnabledGoutam.GaneshESSGoutam GaneshEnabledJacqueline.WhiteESSJacqueline WhiteEnabledJadine.JackieESSJadine JackieEnabledJasmine.MorganESSJasmine MorganEnabledJoe.RootESSJoe RootEnabledJohn.SmithAdminJohn SmithEnabledjohn__smithESSJohn SmithEnabledJordan.MathewsESSJordan MathewsEnabledKiyara.HuESSKiyara HuEnabledLinda.AndersonAdminLinda AndersonEnabledLisa.AndrewsESSLisa AndrewsEnabledLuke.WrightESSLuke WrightEnabledMaggie.ManningESSMaggie ManningEnabledMelan.PeirisESSMelan PeirisEnablednamihaaESSna mihaEnabledNathan.ElliotESSNathan ElliotEnabledNina.PatelESSNina PatelEnabledOdis.AdalwinAdminOdis AdalwinEnabledPeter.AndersonAdminPeter AndersonEnabledRebecca.HarmonyESSRebecca HarmonyEnabledRussel.HamiltonESSRussel HamiltonEnabledSania.ShaheenESSSania ShaheenEnabledSara.TencradyESSSara TencradyEnabledteeeettESSB Z Zameer AhmedEnabledtest1ESStest testEnabledTest2AdminOrange TestEnabled')]</value>
+      <webElementGuid>7ba2fb54-aaa0-483f-b9df-124b05725a55</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

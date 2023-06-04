@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>common_Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>113d328e-1553-4be5-ace0-4caf2931cdde</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>506f9a8c-7e39-4c9e-8ceb-8b585d32d8e3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>78e67382-30bb-4167-9990-a7d5f11b6fbc</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Admin'</defaultValue>
+      <description></description>
+      <id>506f9a8c-7e39-4c9e-8ceb-8b585d32d8e3</id>
+      <masked>false</masked>
+      <name>Orange_Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'hUKwJTbofgPU9eVlw/CnDQ=='</defaultValue>
+      <description></description>
+      <id>78e67382-30bb-4167-9990-a7d5f11b6fbc</id>
+      <masked>false</masked>
+      <name>Orange_Password</name>
+   </variable>
+</TestCaseEntity>

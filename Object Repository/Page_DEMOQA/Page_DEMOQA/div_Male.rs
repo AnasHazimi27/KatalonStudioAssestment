@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Male</name>
+   <tag></tag>
+   <elementGuidId>239dfb24-0c35-45e3-a8e1-379f081116e4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='genterWrapper']/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.custom-control.custom-radio.custom-control-inline</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7eb17081-0674-4963-aedc-1db483f51780</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-control custom-radio custom-control-inline</value>
+      <webElementGuid>382c1b78-4f60-417d-8365-95fe762e5d40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Male</value>
+      <webElementGuid>2d82faa3-dd99-4ee9-9705-8349f538d758</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;genterWrapper&quot;)/div[@class=&quot;col-md-9 col-sm-12&quot;]/div[@class=&quot;custom-control custom-radio custom-control-inline&quot;]</value>
+      <webElementGuid>558a91a3-9249-4374-8268-adb444608d0f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='genterWrapper']/div[2]/div</value>
+      <webElementGuid>a9c576ca-e58a-4967-bee9-5022d89ccbbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gender'])[1]/following::div[2]</value>
+      <webElementGuid>29066cde-adc2-4055-b6db-bbef3c0a35c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::div[5]</value>
+      <webElementGuid>da41ea6e-97b7-4d5d-b165-67611a0023d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Female'])[1]/preceding::div[1]</value>
+      <webElementGuid>55e3504b-a462-4d93-8fc2-fe5ef92bcb95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div</value>
+      <webElementGuid>b644fc3f-8f9f-45a1-b442-c05eda6bc49b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Male' or . = 'Male')]</value>
+      <webElementGuid>13831f1f-92d8-4655-99ea-8561735bcbcf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

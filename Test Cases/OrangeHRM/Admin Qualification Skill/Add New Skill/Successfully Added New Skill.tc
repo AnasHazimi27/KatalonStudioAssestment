@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Successfully Added New Skill</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b387e60f-f8c2-43d7-b5a2-bf21151ff07c</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>7b092dae-f3dc-498d-b416-32a8454395ad</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/skillSource</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>7b092dae-f3dc-498d-b416-32a8454395ad</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>skillName</value>
+      <variableId>598c6bae-4630-4fb1-862d-5edb6f76c792</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>7b092dae-f3dc-498d-b416-32a8454395ad</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>skilldesc</value>
+      <variableId>c29ccb17-d890-443b-980e-400e1b2f8209</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Katalon Studio'</defaultValue>
+      <description></description>
+      <id>598c6bae-4630-4fb1-862d-5edb6f76c792</id>
+      <masked>false</masked>
+      <name>skillName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Testing tools'</defaultValue>
+      <description></description>
+      <id>c29ccb17-d890-443b-980e-400e1b2f8209</id>
+      <masked>false</masked>
+      <name>skillDesc</name>
+   </variable>
+</TestCaseEntity>

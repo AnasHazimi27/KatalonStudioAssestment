@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Successfully create simple text note</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>de3ecd39-0cdc-4023-a5fe-cdcd07ad2cd9</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>44d884e8-cccb-4906-a2e8-351367e17e19</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/sourceData</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>44d884e8-cccb-4906-a2e8-351367e17e19</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>teks</value>
+      <variableId>88bdb66d-5ec5-434c-9130-1be36b1315eb</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Hi World'</defaultValue>
+      <description></description>
+      <id>88bdb66d-5ec5-434c-9130-1be36b1315eb</id>
+      <masked>false</masked>
+      <name>teks</name>
+   </variable>
+</TestCaseEntity>

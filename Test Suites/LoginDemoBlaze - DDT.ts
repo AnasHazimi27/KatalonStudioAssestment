@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>LoginDemoBlaze - DDT</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>d5a9555b-f5e4-4daa-9328-2109b253ba5a</testSuiteGuid>
+   <testCaseLink>
+      <guid>fb4f3b52-776d-4bbf-a064-27649371f9ce</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Training/LoginDemoBlaze - DDT</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>76f68e9c-8dd2-4333-bce3-46d400ecc15f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value></value>
+         <variableId>445293ec-5f31-4d1e-b7ce-40f15db0e05b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value></value>
+         <variableId>47ce4a67-58a1-4c29-8a0e-5b80297c2d20</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

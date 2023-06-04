@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Thanks for submitting the form</name>
+   <tag></tag>
+   <elementGuidId>ee3f373e-9053-4776-8b25-b8a50eeebcab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='example-modal-sizes-title-lg']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#example-modal-sizes-title-lg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c52185b2-0bbd-4f0b-85e9-f2b4a0408b0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal-title h4</value>
+      <webElementGuid>6e79f818-d2d0-4e5b-8c72-41f4ce3a1c66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>example-modal-sizes-title-lg</value>
+      <webElementGuid>528a347c-285d-499e-91a8-fd477d0a529e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Thanks for submitting the form</value>
+      <webElementGuid>02f78acf-1322-4ae2-81b8-036cf05eef10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;example-modal-sizes-title-lg&quot;)</value>
+      <webElementGuid>1e686b0a-b1c1-43eb-987c-aa04350071be</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='example-modal-sizes-title-lg']</value>
+      <webElementGuid>8a8b661e-1330-4f4a-820d-2b227d8b1f8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'example-modal-sizes-title-lg', '&quot;', ')')])[1]/following::div[6]</value>
+      <webElementGuid>a5e32fc7-c0b7-4dc3-b04f-5ce5fcf51eda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2013-2020 TOOLSQA.COM | ALL RIGHTS RESERVED.'])[1]/following::div[9]</value>
+      <webElementGuid>bcad0665-a27b-4d07-a790-75aa30b32fd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Label'])[1]/preceding::div[1]</value>
+      <webElementGuid>e5b1e665-fb52-4f8d-b3cf-a040a0e7dad3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Values'])[1]/preceding::div[1]</value>
+      <webElementGuid>dbee1236-8796-4f6d-9c74-4286ca7360ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Thanks for submitting the form']/parent::*</value>
+      <webElementGuid>40a26ec4-23be-48e0-bf19-5c9bd8a1111d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/div</value>
+      <webElementGuid>9eca86ba-7ef4-45eb-a8f4-d95024f4a1b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'example-modal-sizes-title-lg' and (text() = 'Thanks for submitting the form' or . = 'Thanks for submitting the form')]</value>
+      <webElementGuid>f85f73c8-98bc-4af1-a0d9-3b2749b3f416</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

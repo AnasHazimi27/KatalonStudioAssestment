@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ParameterizeObjectDemo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>65be0c63-af6f-427d-b0e3-24f754d790cb</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>83534d5f-16aa-4532-848b-11340b87c857</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Medicare'</defaultValue>
+      <description></description>
+      <id>83534d5f-16aa-4532-848b-11340b87c857</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

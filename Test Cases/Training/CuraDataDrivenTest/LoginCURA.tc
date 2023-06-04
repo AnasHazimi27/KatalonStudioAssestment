@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LoginCURA</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1c9e20a3-8617-429b-ae50-e8245c769224</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>b17fb0ed-ee9f-422f-8bb9-a3c3459a8483</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/LoginDataCURA</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>b17fb0ed-ee9f-422f-8bb9-a3c3459a8483</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Facility</value>
+      <variableId>aabd31d1-f977-4662-82cc-e09305450332</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>aabd31d1-f977-4662-82cc-e09305450332</id>
+      <masked>false</masked>
+      <name>Facility</name>
+   </variable>
+</TestCaseEntity>

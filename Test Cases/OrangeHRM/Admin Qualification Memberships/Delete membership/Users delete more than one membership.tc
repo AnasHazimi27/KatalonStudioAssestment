@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Users delete more than one membership</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f67813fc-4ae6-475d-a7e3-6ccf899310d5</testCaseGuid>
+</TestCaseEntity>

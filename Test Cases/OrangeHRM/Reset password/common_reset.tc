@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>common_reset</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>724a6e4e-b05d-4862-91cf-4163a2f861e0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>38726335-8e63-45ba-8263-67377249ac04</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>38726335-8e63-45ba-8263-67377249ac04</id>
+      <masked>false</masked>
+      <name>Orange_Reset_Username</name>
+   </variable>
+</TestCaseEntity>
